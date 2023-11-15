@@ -78,7 +78,7 @@ const Footer = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/" className="footer-link">
+                <Link to="gmail.com" className="footer-link">
                   lidburye@yahoo.com
                 </Link>
               </li>
@@ -91,7 +91,7 @@ const Footer = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="/"
+                  href="https://www.facebook.com/lidburye"
                   className="footer-link"
                 >
                   Facebook
@@ -101,7 +101,7 @@ const Footer = () => {
                 <a
                   target="_blank"
                   rel="noreferrer"
-                  href="/"
+                  href="https://twitter.com/lidbury1"
                   className="footer-link"
                 >
                   Twitter
