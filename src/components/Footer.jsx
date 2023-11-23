@@ -84,7 +84,7 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <div className="col-md-3">
+          {/* <div className="col-md-3">
             <p className="footer-title">Social Media</p>
             <ul className="list-unstyled">
               <li>
@@ -118,7 +118,7 @@ const Footer = () => {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
         </div>
         <p className="mb-0">&copy; 2023 Markswell-Crypto All rights reserved.</p>
       </div>
